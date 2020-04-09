@@ -14,7 +14,7 @@ namespace AutoBuyIO.NET
     class Program
     {
         /// <summary>
-        /// Simple AutoBuy.IO test program using RestSharp, Newtonsoft.JSON and Costura.
+        /// A simple AutoBuy.IO sample program using RestSharp, Newtonsoft.JSON and Costura.
         /// Authenticates license keys and HWID without API key needed.
         /// Saves and reads key from registry.
         /// PLEASE obfuscate your program or I will be coming to crack it!
